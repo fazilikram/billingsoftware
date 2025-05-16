@@ -1,6 +1,9 @@
 # billingsoftware
 A billing software for a retail store
 
+![image alt](https://github.com/fazilikram/billingsoftware/blob/2ddecd8062633058a7a9577dd6fab2a33bbfda7a/bill%20pic%201.png)
+
+
 🧾 Billing Software
 This is a lightweight and user-friendly billing software designed to streamline invoice generation, customer management, and payment tracking for small to medium-sized businesses. The software provides a simple interface to manage product inventories, generate printable invoices, calculate taxes, and store customer details securely.
 
